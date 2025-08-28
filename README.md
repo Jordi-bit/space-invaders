@@ -66,9 +66,6 @@ El juego termina cuando los enemigos alcanzan al jugador o destruyen su nave.
 📂 Proyecto
 ├── main.py               # Código principal del juego
 ├── requirements.txt      # Dependencias
-|__ imagenes/
-|   |__ captura-1.JPG
-|   |__ captura-2.JPG     # Capturas de imagenes  
 ├── img/                  # Imágenes (naves, explosiones, balas, etc.)
 │   ├── nave1.png
 │   ├── enemigo1_A.png
@@ -94,8 +91,8 @@ El juego termina cuando los enemigos alcanzan al jugador o destruyen su nave.
 ---
 ## 📸 Capturas 
 
-![captura-1](imagenes/capturas/captura-1.jpg)
-![captura-2](imagenes/capturas/captura-2.jpg)
+![captura-1](img/capturas/captura-1.JPG)
+![captura-2](img/capturas/captura-2.JPG)
 
 ---
 
